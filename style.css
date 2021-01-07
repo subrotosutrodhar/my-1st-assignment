@@ -1,0 +1,86 @@
+body{
+    margin: 0%;
+    font-family: 'Rubik', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.badhon-highlight{
+    color: tomato;
+}
+p{
+    color: dimgrey;
+}
+.half-width{
+    height: 50%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+width: 100%;   
+}
+.top-part{
+    background-color: cornsilk;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.tow-part{
+    background-color: darkseagreen;
+    
+}
+.there-part{
+    background-color: whitesmoke;
+}
+.number-one img{
+    width: 100%;
+}
+#pain-full{
+    text-align: center;
+}
+.number-one{
+    width: 30%;
+    margin-left: 35px;
+    float: left;
+}
+.number-one{
+    box-shadow: 10px 10px 40 px grey;
+    border-radius: 10px;
+    height: 80%;
+
+}
+.number-one{
+    text-align: center;
+}
+.forth-part{
+    padding: 20px;
+    background-image: url(images/Group_1.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    width: 90%;
+    margin-left: 25%;
+    margin-top: 10%;
+    margin-bottom: 50px;
+}
+.lam-ba{
+    font-size: 40px;
+    color: white;
+}
+.hard-one{
+    text-align: center;
+}
